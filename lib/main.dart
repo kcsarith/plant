@@ -19,8 +19,8 @@ import 'screens/auth/sign_up.dart';
 import 'screens/bottom_bar.dart';
 import 'screens/cart/cart.dart';
 import 'screens/feeds.dart';
-import 'screens/landing_page.dart';
-import 'screens/main_screen.dart';
+// import 'screens/landing_page.dart';
+// import 'screens/main_screen.dart';
 import 'screens/user_state.dart';
 
 void main() {
