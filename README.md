@@ -1,4 +1,4 @@
-# plant
+# Plant
 
 A new Flutter project.
 
